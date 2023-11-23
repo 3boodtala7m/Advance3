@@ -14,6 +14,6 @@ public class StatisticsDisplay implements WeatherDataObserver {
         float averageTemperature = totalTemperature / updateCount;
         float averageHumidity = totalHumidity / updateCount;
 
-        System.out.println("Average temperature: " + averageTemperature + "%, Average humidity: " + averageHumidity + "%");
+        System.out.println("Average temperature: " + averageTemperature + " , Average humidity: " + averageHumidity );
     }
 }
