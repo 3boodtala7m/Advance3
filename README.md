@@ -23,7 +23,7 @@ Then the second class, which is StatisticsDisplay, its purpose is averageTempera
 Of course, in the last part, the integration, frankly, I did not understand how the merging process would take place or how it would happen, but I achieved the principles required in the first, which are Decorator and Observer, but I did not understand the last part, so I put two pages, which are DecoratorMain and ObserverMain, and each one works separately. Thank you, But I hope that next time the assignments will be explained more than this. Thank you
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Decorator Package:
